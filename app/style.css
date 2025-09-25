@@ -1,0 +1,23 @@
+.avatar .img {
+  width: 200px;
+  height: 200px;
+}
+
+.richmd_preview .span {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.richmd_preview .span .img {
+  max-width: 60%;
+  border: solid 1px #ccc;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+@media (max-width: 900px) {
+  .richmd_preview .span .img {
+    max-width: 100%;
+  }
+}
