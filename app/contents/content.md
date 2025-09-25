@@ -20,7 +20,6 @@
 
 詳細な経歴は[こちら](https://gist.github.com/bebeji-nappa/e937d4ffd354a0077b7fb51493329172)をご確認ください。
 
-
 ## Portfolio
 ### Richmd
 GitHub URL(@richmd/core): [https://github.com/richmd/core](https://github.com/richmd/core)
@@ -51,4 +50,3 @@ React でLT用スライドができる npm ライブラリです。
 
 ## お問い合わせ・連絡先
 連絡・お問い合わせは[こちらのフォーム](https://forms.gle/q7x7jPWMvuBcQWDq8)からお願いします。
-
