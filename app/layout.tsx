@@ -7,13 +7,6 @@ export const metadata: Metadata = {
   openGraph: {
     title: "bebeji-nappa.com",
     description: "nappa のポートフォリオサイト",
-    images: [
-      {
-        url: "/ogp/title_logo.png",
-        width: 1200,
-        height: 630,
-      },
-    ],
   },
 };
 
