@@ -29,7 +29,7 @@ GitHub URL(@richmd/core): [https://github.com/richmd/core](https://github.com/ri
 ::
 
 Markdownパーサー&HTML変換ができる npm ライブラリです。実は、このページのコンテンツも Richmd を使用して、作成しています。
-LT用のスライドも作成できます。ただし、図形の描画ができないので、追々実装する予定です。
+LT用のスライドも作成できますが、図形の描画ができないので、追々実装する予定です。
 
 ### react-speaker-board
 GitHub URL: [https://github.com/bebeji-nappa/react-speaker-board](https://github.com/bebeji-nappa/react-speaker-board)
