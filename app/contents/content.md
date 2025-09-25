@@ -48,5 +48,5 @@ React でLT用スライドができる npm ライブラリです。
 [Qiita](https://qiita.com/bebeji_nappa)
 [Facebook](https://www.facebook.com/umagoro222)
 
-## お問い合わせ・連絡先
+## Contact
 連絡・お問い合わせは[こちらのフォーム](https://forms.gle/q7x7jPWMvuBcQWDq8)からお願いします。
