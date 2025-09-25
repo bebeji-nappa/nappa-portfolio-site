@@ -44,7 +44,7 @@ React でLT用スライドができる npm ライブラリです。
 [X](https://x.com/bebeji_nappa)
 [GitHub](https://github.com/bebeji-nappa)
 [YOUTRUST](https://youtrust.jp/users/bebeji_nappa)
-[Wantendly](https://www.wantedly.com/id/masakazu_yanagawa)
+[Wantedly](https://www.wantedly.com/id/masakazu_yanagawa)
 [Zenn](https://zenn.dev/nappa)
 [Qiita](https://qiita.com/bebeji_nappa)
 [Facebook](https://www.facebook.com/umagoro222)
