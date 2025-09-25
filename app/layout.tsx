@@ -17,7 +17,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
-      <body>{children}</body>
+      <body>
+        {children}
+        <footer className="text-center text-sm text-gray-500 my-5">
+          © 2025 bebeji-nappa.com
+        </footer>
+      </body>
     </html>
   );
 }
