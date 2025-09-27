@@ -31,6 +31,20 @@ GitHub URL(@richmd/core): [https://github.com/richmd/core](https://github.com/ri
 Markdownパーサー&HTML変換ができる npm ライブラリです。実は、このページのコンテンツも Richmd を使用して、作成しています。
 LT用のスライドも作成できますが、図形の描画ができないので、追々実装する予定です。
 
+
+### 個人ブログ(Next.js を使ったブログサービス)
+URL: [https://blog.bebeji-nappa.com/](https://blog.bebeji-nappa.com/)
+
+::div.richmd_preview
+![richmd_preview](/blog.png)
+::
+
+個人ブログで使うブログサービスを構築しました。
+個人ブログ用で構築したので、投稿や編集機能など、最低限の機能だけ実装しており、全ての機能を自分のみ使用するように制限しております。
+
+技術的には、Next.js + Prisma + tRPC で構築しており、ログイン認証は Next-auth を使用しました。
+(ただし、ログインや投稿ページや編集ページについては、BASIC 認証しないと閲覧できないようになっており、今後制限を強化していく予定です)
+
 ### react-speaker-board
 GitHub URL: [https://github.com/bebeji-nappa/react-speaker-board](https://github.com/bebeji-nappa/react-speaker-board)
 
@@ -47,6 +61,7 @@ React でLT用スライドができる npm ライブラリです。
 [Zenn](https://zenn.dev/nappa)
 [Qiita](https://qiita.com/bebeji_nappa)
 [Facebook](https://www.facebook.com/umagoro222)
+[Blog](https://blog.bebeji-nappa.com/)
 
 ## Contact
 連絡・お問い合わせは[こちらのフォーム](https://forms.gle/q7x7jPWMvuBcQWDq8)からお願いします。
