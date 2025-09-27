@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 
 export default function Home() {
-  const contentPath = path.join("./app/contents", "content.md");
-  const content = fs.readFileSync(contentPath, "utf8");
+  const resumePath = path.join("./app/contents", "resume.md");
+  const resume = fs.readFileSync(resumePath, "utf8");
 
   return (
     <div className="container max-w-4xl mx-auto mt-5 px-5 flex flex-col gap-8">
@@ -22,7 +22,7 @@ export default function Home() {
       </div>
 
       <article>
-        <Richmd text={content} />
+        <Richmd text={resume} />
       </article>
     </div>
   );

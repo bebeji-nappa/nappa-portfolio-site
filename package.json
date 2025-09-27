@@ -1,6 +1,5 @@
 {
   "name": "nappa-portfolio-site",
-  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -10,7 +9,7 @@
     "format": "biome format --write"
   },
   "dependencies": {
-    "@richmd/react": "^2.1.4",
+    "@richmd/react": "^2.1.5",
     "next": "15.5.4",
     "react": "19.1.0",
     "react-dom": "19.1.0"

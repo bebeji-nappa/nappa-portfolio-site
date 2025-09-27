@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "@richmd/react/dist/richmd.css";
+import "./style.css";
 
 export const metadata: Metadata = {
   title: "bebeji-nappa.com",

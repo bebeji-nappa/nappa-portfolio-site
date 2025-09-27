@@ -17,3 +17,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+ol {
+  list-style: decimal;
+}
+
+ul {
+  list-style: disc;
+}

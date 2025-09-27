@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@richmd/react':
-        specifier: ^2.1.4
-        version: 2.1.4(@types/react@19.1.13)
+        specifier: ^2.1.5
+        version: 2.1.5(@types/react@19.1.13)
       next:
         specifier: 15.5.4
         version: 15.5.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -311,14 +311,14 @@ packages:
     peerDependencies:
       react: '>=16.8'
 
-  '@richmd/core@4.0.9':
-    resolution: {integrity: sha512-cMH5Ffy3zPj67oEpuRnyZdezvnk6GUW114sMxdNMO6/0vwrZuIiLlfsqZIyLwsHnXPDLBAwWetyuv5KxwBMV/Q==}
+  '@richmd/core@4.0.10':
+    resolution: {integrity: sha512-kE+5iVBgJL7FfjZLu4n2ikDBIAYAA4d+75uD7yO6z3AVKXV3aScJ4DjI4HWgp5Z/L0b1V9dLsehZyL+Q9pC4TQ==}
 
-  '@richmd/js@2.0.13':
-    resolution: {integrity: sha512-yJisd0gZfXb4d6/Ia/S+TA5QBsJNNmOnuhk5qqfzTCY0/3paOumpVzFxW58GnxLFYavzxVki0wM1YuY1Q4IDtg==}
+  '@richmd/js@2.0.14':
+    resolution: {integrity: sha512-hMlwIAXHe6i3b80EhldvFLtjdyL2o3SmxUBB5u2r5XO3i4b0EFMNXOdLERQ1jAFSLQyfQCKjZTTsO3rWfbKpcQ==}
 
-  '@richmd/react@2.1.4':
-    resolution: {integrity: sha512-ckztBWqkVw9pazp3afYKIbELgUBcPlhHe/1BELe+l9TBCkYS7bDN7duwaK5+4pq5iV18NPv+tdn1fr3kQ/vlkA==}
+  '@richmd/react@2.1.5':
+    resolution: {integrity: sha512-UYeZKcYZZeubzg2lt5DQm1jVWEVadggR/sR5uvf59Ujkq7dowKORropwXAMgUM7wH6oJLHleHcOmpZVf1WD7eA==}
 
   '@swc/helpers@0.5.15':
     resolution: {integrity: sha512-JQ5TuMi45Owi4/BIMAJBoSQoOJu12oOk/gADqlcUL9JEdHB8vyjUSsxqeNXnmXHjYKMi2WcYtezGEEhqUI/E2g==}
@@ -966,24 +966,24 @@ snapshots:
     dependencies:
       react: 19.1.0
 
-  '@richmd/core@4.0.9':
+  '@richmd/core@4.0.10':
     dependencies:
       highlight.js: 11.11.1
       katex: 0.16.22
       typescript: 5.9.2
 
-  '@richmd/js@2.0.13':
+  '@richmd/js@2.0.14':
     dependencies:
-      '@richmd/core': 4.0.9
+      '@richmd/core': 4.0.10
       highlight.js: 11.11.1
       katex: 0.16.22
       node-html-parser: 7.0.1
       typescript: 5.9.2
 
-  '@richmd/react@2.1.4(@types/react@19.1.13)':
+  '@richmd/react@2.1.5(@types/react@19.1.13)':
     dependencies:
       '@react-hook/event': 1.2.6(react@19.1.0)
-      '@richmd/js': 2.0.13
+      '@richmd/js': 2.0.14
       html-react-parser: 5.2.6(@types/react@19.1.13)(react@19.1.0)
       html2canvas: 1.4.1
       jspdf: 3.0.3
