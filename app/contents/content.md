@@ -1,8 +1,8 @@
 ## Profile
 
-::div.avatar
+<>div.avatar
 ![avatar](/avatar.jpg)
-::
+<>
 
 **nappa (梁川 将和)**
 
@@ -24,9 +24,9 @@
 ### Richmd
 GitHub URL(@richmd/core): [https://github.com/richmd/core](https://github.com/richmd/core)
 
-::div.richmd_preview
+<>div.richmd_preview
 ![richmd_preview](/richmd.png)
-::
+<>
 
 Markdownパーサー&HTML変換ができる npm ライブラリです。実は、このページのコンテンツも Richmd を使用して、作成しています。
 LT用のスライドも作成できますが、図形の描画ができないので、追々実装する予定です。
@@ -35,18 +35,18 @@ LT用のスライドも作成できますが、図形の描画ができないの
 ### ブログサービス Born
 URL: [https://born-docs.com/](https://born-docs.com/)
 
-::div.richmd_preview
+<>div.richmd_preview
 ![richmd_preview](/born.png)
-::
-::div.richmd_preview
+<>
+<>div.richmd_preview
 ![richmd_preview](/born1.png)
-::
+<>
 長く構想していたブログサービスを立ち上げました。
 まずは、試験的に個人ブログとして運用開始し、その後、他ユーザへの展開に向けて、着実に機能開発を行い、リリースしました。
 
-::div.richmd_preview
+<>div.richmd_preview
 ![richmd_preview](/born2.png)
-::
+<>
 特徴は、各ユーザがブログのデザインをアレンジできることです。
 このサービスは、カテゴリを設けず「自由に書き、表現する」をテーマに作ってます。
 なので、個人の好みのデザインにすることで、個性を出していこう!ということで実装しました。
